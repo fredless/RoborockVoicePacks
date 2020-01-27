@@ -16,4 +16,6 @@ prompts.  As far as I know, this voice package should be fully compatible with t
 as well as versions prior.  If new prompts show up in future firmwares this will need to be updated.
 
 While presently this repo only contains a voice package for Phil, if I am inspired at some point
-I may create more and post them here as well.
+I may create more and post them here as well.  If you are inspired and want to contribute here, let
+me know.  If you have a great idea for a custom voice package but need help making it happen,
+perhaps a feature request is in order.
